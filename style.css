@@ -49,6 +49,7 @@ td {
 
 footer {
   margin-top: 50px;
+  margin-bottom:-5px;
   text-align: center;
   position: fixed;
   width: 100%;
